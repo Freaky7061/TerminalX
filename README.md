@@ -58,4 +58,4 @@ MIT License - 自由修改与分发，欢迎提交 Issue 或 PR！
 
 ---
 
-**附注**：本项目为《Unix与Linux系统》课程设计实现，完整文档见 [课程报告.pdf](docs/report.pdf)。
+**附注**：本项目为《Unix与Linux系统》课程设计实现，完整文档见 [课程报告.pdf](课程报告.docx)。
